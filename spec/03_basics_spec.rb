@@ -24,7 +24,6 @@ describe 'crazy stuff on strings' do
   end
 end
 
-
 describe '42 finder' do
   # array_42 takes an array as parameter and returns:
   # - true if there's a 42 in the array items
